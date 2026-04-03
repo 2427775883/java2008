@@ -1,4 +1,4 @@
-"# 项目简介
+# 项目简介
 
 ## 核心功能
 - 用户管理：注册、登录、个人信息管理、密码修改
@@ -49,4 +49,3 @@ https://www.yuque.com/yuqueyonghux32e1j/kxdc9g/ad8oz3bamkxmay0e#Cxun
 ![](https://img20.360buyimg.com/openfeedback/jfs/t1/386905/19/10655/38129/696a4509Fc7bb9051/00155a02c43f87c4.jpg)
 
 ![](https://img20.360buyimg.com/openfeedback/jfs/t1/390693/21/89/22187/696a450aF790b3442/00155a027ce5450d.jpg)
-"
